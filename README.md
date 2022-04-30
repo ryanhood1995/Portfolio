@@ -27,6 +27,7 @@ cell: 214-592-3104
 
 *GoodReads* is community for book lovers to rate, review, discuss, and suggest books.  The purpose of this project is to monitor a user's *GoodReads* profile and be an all-in-one assistant for them.  The AI can congratulate them on book completion, track progress, and recommend new books based on past ratings or reviews.
 
+![](/images/goodreads_pic.jpg)
 
 ## [Project 4: Perspective Transformation to Cash Checks Electronically](https://github.com/ryanhood1995/perspective_transform_on_checks)
 
