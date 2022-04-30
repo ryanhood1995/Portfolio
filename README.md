@@ -4,6 +4,7 @@
 Below are some of my personal projects I am most proud of.  To see a full list of my personal projects, feel free to explore my Github at https://github.com/ryanhood1995.
 
 Contact Info:
+
 email: ryanchristopherhood@gmail.com
 
 cell: 214-592-3104
