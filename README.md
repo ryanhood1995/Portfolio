@@ -1,7 +1,7 @@
 # Ryan Hood
 ## Data Science | Data Engineering | Data Analytics
 
-Below are some of my personal projects I am most proud of.  To see a full list of my personal projects, feel free to explore my Github at [](https://github.com/ryanhood1995).
+Below are some of my personal projects I am most proud of.  To see a full list of my personal projects, feel free to explore [my github](https://github.com/ryanhood1995).
 
 
 Contact Info:
